@@ -1,0 +1,23 @@
+*{
+    font-family: arial;
+}
+body{
+    background-color: rgb(32, 32, 32);
+}
+h1{
+    color: #cf0000;
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+    margin-top: 250px;
+
+}
+h1:hover{
+    transition: 1.5s;
+    cursor: pointer;
+    letter-spacing: 0.25em;
+    font-style: italic;
+}
+a{
+    color: rgba(0, 0, 0, 0);
+}
